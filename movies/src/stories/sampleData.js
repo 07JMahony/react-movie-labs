@@ -26,6 +26,12 @@ const sampleData = {
         name: "Action",
       },
     ],
+    production_countries: [
+      {
+        id : 488,
+        name: "United States of America",
+      },
+    ],
     homepage:
       "https://www.starwars.com/films/star-wars-episode-viii-the-last-jedi",
     id: 181808,
